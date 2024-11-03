@@ -1,0 +1,331 @@
+[
+    {
+        "title": "Effect of foods on selected dynamic parameters of mandibular elevator muscles during symmetric incisal biting ",
+        "doi": "doi:10.1016/j.jbiomech.2020.109800",
+        "abstract": "\n                  The paper focuses on research that enables the relationship between food and selected mechanical parameters do be determined. The main aim of the study was to designate, depending on the food: (1) the work of a single muscle (i.e. masseter, medial pterygoid, temporalis), and (2) the energy balance of mandibular elevator muscles based on the dynamic patterns of muscles. In turn, the indirect goal was to determine: (1) the muscle contraction, and (2) the average muscle contraction velocity based on the specified kinematic parameters, i.e. incisal biting velocity and incisal biting time.\n                  A hybrid model, consisting of a phenomenological model of the masticatory system and a behavioural model of incisal biting, was used in the calculations. The phenomenological model was based on an anatomically and physiologically normal mandible and healthy muscles, while the behavioural model was represented by the dynamic patterns of food.\n                  Calculations showed that muscle force is an important, but not the only, parameter that enables the quantitative and qualitative assessment of the functioning of the mandibular elevator muscles during symmetric incisal biting. Based on the obtained results, it can be stated that the dynamic patterns of muscles are a very important parameter, because on their basis, among others, muscle contraction, contraction time, work, and energy can be determined. The conducted calculations and analyses showed that the above-mentioned parameters depend on the mechanical properties of food (the dynamic patterns of food).\n               ",
+        "keywords": [],
+        "authors": [
+            "Strozyk, Przemyslaw",
+            "Jacek, Balchanowski"
+        ],
+        "affiliations": [],
+        "full_response": {
+            "coredata": {
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0021929020302207",
+                "dc:identifier": "doi:10.1016/j.jbiomech.2020.109800",
+                "eid": "1-s2.0-S0021929020302207",
+                "prism:doi": "10.1016/j.jbiomech.2020.109800",
+                "pii": "S0021-9290(20)30220-7",
+                "dc:title": "Effect of foods on selected dynamic parameters of mandibular elevator muscles during symmetric incisal biting ",
+                "prism:publicationName": "Journal of Biomechanics",
+                "prism:aggregationType": "Journal",
+                "pubType": "fla",
+                "prism:issn": "00219290",
+                "prism:volume": "106",
+                "prism:startingPage": "109800",
+                "prism:pageRange": "109800",
+                "articleNumber": "109800",
+                "dc:format": "application/json",
+                "prism:coverDate": "2020-06-09",
+                "prism:coverDisplayDate": "9 June 2020",
+                "prism:copyright": "\u00a9 2020 Published by Elsevier Ltd.",
+                "prism:publisher": "Published by Elsevier Ltd.",
+                "dc:creator": [
+                    {
+                        "@_fa": "true",
+                        "$": "Str\u00f3\u017cyk, Przemys\u0142aw"
+                    },
+                    {
+                        "@_fa": "true",
+                        "$": "Jacek, Ba\u0142chanowski"
+                    }
+                ],
+                "dc:description": "\n                  The paper focuses on research that enables the relationship between food and selected mechanical parameters do be determined. The main aim of the study was to designate, depending on the food: (1) the work of a single muscle (i.e. masseter, medial pterygoid, temporalis), and (2) the energy balance of mandibular elevator muscles based on the dynamic patterns of muscles. In turn, the indirect goal was to determine: (1) the muscle contraction, and (2) the average muscle contraction velocity based on the specified kinematic parameters, i.e. incisal biting velocity and incisal biting time.\n                  A hybrid model, consisting of a phenomenological model of the masticatory system and a behavioural model of incisal biting, was used in the calculations. The phenomenological model was based on an anatomically and physiologically normal mandible and healthy muscles, while the behavioural model was represented by the dynamic patterns of food.\n                  Calculations showed that muscle force is an important, but not the only, parameter that enables the quantitative and qualitative assessment of the functioning of the mandibular elevator muscles during symmetric incisal biting. Based on the obtained results, it can be stated that the dynamic patterns of muscles are a very important parameter, because on their basis, among others, muscle contraction, contraction time, work, and energy can be determined. The conducted calculations and analyses showed that the above-mentioned parameters depend on the mechanical properties of food (the dynamic patterns of food).\n               ",
+                "openaccess": "0",
+                "openaccessArticle": false,
+                "openaccessType": null,
+                "openArchiveArticle": false,
+                "openaccessSponsorName": null,
+                "openaccessSponsorType": null,
+                "openaccessUserLicense": null,
+                "dcterms:subject": [
+                    {
+                        "@_fa": "true",
+                        "$": "Mandibular elevator muscles"
+                    },
+                    {
+                        "@_fa": "true",
+                        "$": "Muscle contraction"
+                    },
+                    {
+                        "@_fa": "true",
+                        "$": "Muscle work"
+                    },
+                    {
+                        "@_fa": "true",
+                        "$": "Dynamic patterns of muscles"
+                    }
+                ],
+                "link": [
+                    {
+                        "@href": "https://api.elsevier.com/content/article/pii/S0021929020302207",
+                        "@rel": "self",
+                        "@_fa": "true"
+                    },
+                    {
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0021929020302207",
+                        "@rel": "scidir",
+                        "@_fa": "true"
+                    }
+                ]
+            },
+            "scopus-id": "85086354202",
+            "scopus-eid": "2-s2.0-85086354202",
+            "pubmed-id": "32517980",
+            "link": {
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85086354202",
+                "@rel": "abstract"
+            },
+            "originalText": {
+                "xocs:doc": {
+                    "xocs:meta": {
+                        "xocs:open-access": {
+                            "xocs:oa-article-status": {
+                                "@is-open-access": "0",
+                                "@is-open-archive": "0"
+                            }
+                        },
+                        "xocs:available-online-date": {
+                            "@yyyymmdd": "20200420",
+                            "$": "2020-04-20"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "title": "An EEG channel selection method for motor imagery based brain\u2013computer interface and neurofeedback using Granger causality ",
+        "doi": "doi:10.1016/j.neunet.2020.11.002",
+        "abstract": "\n                  Motor imagery (MI) brain\u2013computer interface (BCI) and neurofeedback (NF) with electroencephalogram (EEG) signals are commonly used for motor function improvement in healthy subjects and to restore neurological functions in stroke patients. Generally, in order to decrease noisy and redundant information in unrelated EEG channels, channel selection methods are used which provide feasible BCI and NF implementations with better performances. Our assumption is that there are causal interactions between the channels of EEG signal in MI tasks that are repeated in different trials of a BCI and NF experiment. Therefore, a novel method for EEG channel selection is proposed which is based on Granger causality (GC) analysis. Additionally, the machine-learning approach is used to cluster independent component analysis (ICA) components of the EEG signal into artifact and normal EEG clusters. After channel selection, using the common spatial pattern (CSP) and regularized CSP (RCSP), features are extracted and with the k-nearest neighbor (k-NN), support vector machine (SVM) and linear discriminant analysis (LDA) classifiers, MI tasks are classified into left and right hand MI. The goal of this study is to achieve a method resulting in lower EEG channels with higher classification performance in MI-based BCI and NF by causal constraint. The proposed method based on GC, with only eight selected channels, results in 93.03% accuracy, 92.93% sensitivity, and 93.12% specificity, with RCSP feature extractor and best classifier for each subject, after being applied on Physionet MI dataset, which is increased by 3.95%, 3.73%, and 4.13%, in comparison with correlation-based channel selection method.\n               ",
+        "keywords": [],
+        "authors": [
+            "Varsehi, Hesam",
+            "Firoozabadi, S. Mohammad P."
+        ],
+        "affiliations": [],
+        "full_response": {
+            "coredata": {
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0893608020303853",
+                "dc:identifier": "doi:10.1016/j.neunet.2020.11.002",
+                "eid": "1-s2.0-S0893608020303853",
+                "prism:doi": "10.1016/j.neunet.2020.11.002",
+                "pii": "S0893-6080(20)30385-3",
+                "dc:title": "An EEG channel selection method for motor imagery based brain\u2013computer interface and neurofeedback using Granger causality ",
+                "prism:publicationName": "Neural Networks",
+                "prism:aggregationType": "Journal",
+                "pubType": "fla",
+                "prism:issn": "08936080",
+                "prism:volume": "133",
+                "prism:startingPage": "193",
+                "prism:endingPage": "206",
+                "prism:pageRange": "193-206",
+                "dc:format": "application/json",
+                "prism:coverDate": "2021-01-31",
+                "prism:coverDisplayDate": "January 2021",
+                "prism:copyright": "\u00a9 2020 Elsevier Ltd. All rights reserved.",
+                "prism:publisher": "Elsevier Ltd.",
+                "dc:creator": [
+                    {
+                        "@_fa": "true",
+                        "$": "Varsehi, Hesam"
+                    },
+                    {
+                        "@_fa": "true",
+                        "$": "Firoozabadi, S. Mohammad P."
+                    }
+                ],
+                "dc:description": "\n                  Motor imagery (MI) brain\u2013computer interface (BCI) and neurofeedback (NF) with electroencephalogram (EEG) signals are commonly used for motor function improvement in healthy subjects and to restore neurological functions in stroke patients. Generally, in order to decrease noisy and redundant information in unrelated EEG channels, channel selection methods are used which provide feasible BCI and NF implementations with better performances. Our assumption is that there are causal interactions between the channels of EEG signal in MI tasks that are repeated in different trials of a BCI and NF experiment. Therefore, a novel method for EEG channel selection is proposed which is based on Granger causality (GC) analysis. Additionally, the machine-learning approach is used to cluster independent component analysis (ICA) components of the EEG signal into artifact and normal EEG clusters. After channel selection, using the common spatial pattern (CSP) and regularized CSP (RCSP), features are extracted and with the k-nearest neighbor (k-NN), support vector machine (SVM) and linear discriminant analysis (LDA) classifiers, MI tasks are classified into left and right hand MI. The goal of this study is to achieve a method resulting in lower EEG channels with higher classification performance in MI-based BCI and NF by causal constraint. The proposed method based on GC, with only eight selected channels, results in 93.03% accuracy, 92.93% sensitivity, and 93.12% specificity, with RCSP feature extractor and best classifier for each subject, after being applied on Physionet MI dataset, which is increased by 3.95%, 3.73%, and 4.13%, in comparison with correlation-based channel selection method.\n               ",
+                "openaccess": "0",
+                "openaccessArticle": false,
+                "openaccessType": null,
+                "openArchiveArticle": false,
+                "openaccessSponsorName": null,
+                "openaccessSponsorType": null,
+                "openaccessUserLicense": null,
+                "dcterms:subject": [
+                    {
+                        "@_fa": "true",
+                        "$": "Motor imagery (MI)"
+                    },
+                    {
+                        "@_fa": "true",
+                        "$": "Electroencephalogram (EEG)"
+                    },
+                    {
+                        "@_fa": "true",
+                        "$": "EEG channel selection"
+                    },
+                    {
+                        "@_fa": "true",
+                        "$": "Granger causality"
+                    },
+                    {
+                        "@_fa": "true",
+                        "$": "Neurofeedback"
+                    },
+                    {
+                        "@_fa": "true",
+                        "$": "Brain\u2013computer interface (BCI)"
+                    }
+                ],
+                "link": [
+                    {
+                        "@href": "https://api.elsevier.com/content/article/pii/S0893608020303853",
+                        "@rel": "self",
+                        "@_fa": "true"
+                    },
+                    {
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0893608020303853",
+                        "@rel": "scidir",
+                        "@_fa": "true"
+                    }
+                ]
+            },
+            "scopus-id": "85096724009",
+            "scopus-eid": "2-s2.0-85096724009",
+            "pubmed-id": "33220643",
+            "link": {
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85096724009",
+                "@rel": "abstract"
+            },
+            "originalText": {
+                "xocs:doc": {
+                    "xocs:meta": {
+                        "xocs:open-access": {
+                            "xocs:oa-article-status": {
+                                "@is-open-access": "0",
+                                "@is-open-archive": "0"
+                            }
+                        },
+                        "xocs:available-online-date": {
+                            "@yyyymmdd": "20201110",
+                            "$": "2020-11-10"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "title": "Privacy preserving verifiable federated learning scheme using blockchain and homomorphic encryption ",
+        "doi": "doi:10.1016/j.asoc.2024.112405",
+        "abstract": "\n                  This paper introduces a novel Privacy-Preserving Verifiable Federated Learning (PPVFL) scheme that integrates blockchain technology and homomorphic encryption to address critical challenges in decentralized machine learning. The proposed scheme ensures data privacy, integrity, verifiability, robust security, and efficiency in collaborative learning environments, particularly in sensitive domains such as healthcare. By leveraging blockchain\u2019s decentralized, immutable ledger and homomorphic encryption\u2019s capability to perform computations on encrypted data, the model maintains the confidentiality of sensitive information throughout the learning process. The inclusion of Byzantine fault tolerance and Elliptic Curve Digital Signature Algorithm (ECDSA) further enhances the system\u2019s security against malicious attacks and data tampering, while the optimization of computational processes ensures efficient model training and communication. The novelty of this work lies in the seamless integration of blockchain and homomorphic encryption within a federated learning framework, specifically tailored for post-quantum cryptography, a combination that has not been extensively explored in prior research. This research represents a significant advancement in secure and efficient federated learning, offering a promising solution for industries that prioritize data privacy, security, and trust in collaborative machine learning. The effectiveness, security, and efficiency of the PPVFL scheme were validated using the Glaucoma dataset. The proposed method outperformed baseline federated learning algorithms, achieving a Dice coefficient of 0.918 and a Hausdorff distance of 4.05 on Severe Glaucoma (SG) cases, compared to 0.905 and 5.27, respectively, with traditional FedAvg. Moreover, the integration of blockchain and homomorphic encryption ensured that data privacy was upheld without compromising model performance, while efficient computation and communication processes minimized latency and resource consumption. This study contributes a robust, privacy-preserving, secure, efficient, and verifiable federated learning framework that addresses the pressing need for secure and scalable data management in distributed machine learning environments.\n               ",
+        "keywords": [],
+        "authors": [
+            "Mahato, Ganesh Kumar",
+            "Banerjee, Aiswaryya",
+            "Chakraborty, Swarnendu Kumar",
+            "Gao, Xiao-Zhi"
+        ],
+        "affiliations": [],
+        "full_response": {
+            "coredata": {
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1568494624011797",
+                "dc:identifier": "doi:10.1016/j.asoc.2024.112405",
+                "eid": "1-s2.0-S1568494624011797",
+                "prism:doi": "10.1016/j.asoc.2024.112405",
+                "pii": "S1568-4946(24)01179-7",
+                "dc:title": "Privacy preserving verifiable federated learning scheme using blockchain and homomorphic encryption ",
+                "prism:publicationName": "Applied Soft Computing",
+                "prism:aggregationType": "Journal",
+                "pubType": "fla",
+                "prism:issn": "15684946",
+                "prism:startingPage": "112405",
+                "prism:pageRange": "112405",
+                "articleNumber": "112405",
+                "dc:format": "application/json",
+                "prism:coverDate": "2024-10-30",
+                "prism:coverDisplayDate": "Available online 30 October 2024",
+                "prism:copyright": "\u00a9 2024 Elsevier B.V. All rights are reserved, including those for text and data mining, AI training, and similar technologies.",
+                "prism:publisher": "Elsevier B.V. All rights are reserved, including those for text and data mining, AI training, and similar technologies.",
+                "dc:creator": [
+                    {
+                        "@_fa": "true",
+                        "$": "Mahato, Ganesh Kumar"
+                    },
+                    {
+                        "@_fa": "true",
+                        "$": "Banerjee, Aiswaryya"
+                    },
+                    {
+                        "@_fa": "true",
+                        "$": "Chakraborty, Swarnendu Kumar"
+                    },
+                    {
+                        "@_fa": "true",
+                        "$": "Gao, Xiao-Zhi"
+                    }
+                ],
+                "dc:description": "\n                  This paper introduces a novel Privacy-Preserving Verifiable Federated Learning (PPVFL) scheme that integrates blockchain technology and homomorphic encryption to address critical challenges in decentralized machine learning. The proposed scheme ensures data privacy, integrity, verifiability, robust security, and efficiency in collaborative learning environments, particularly in sensitive domains such as healthcare. By leveraging blockchain\u2019s decentralized, immutable ledger and homomorphic encryption\u2019s capability to perform computations on encrypted data, the model maintains the confidentiality of sensitive information throughout the learning process. The inclusion of Byzantine fault tolerance and Elliptic Curve Digital Signature Algorithm (ECDSA) further enhances the system\u2019s security against malicious attacks and data tampering, while the optimization of computational processes ensures efficient model training and communication. The novelty of this work lies in the seamless integration of blockchain and homomorphic encryption within a federated learning framework, specifically tailored for post-quantum cryptography, a combination that has not been extensively explored in prior research. This research represents a significant advancement in secure and efficient federated learning, offering a promising solution for industries that prioritize data privacy, security, and trust in collaborative machine learning. The effectiveness, security, and efficiency of the PPVFL scheme were validated using the Glaucoma dataset. The proposed method outperformed baseline federated learning algorithms, achieving a Dice coefficient of 0.918 and a Hausdorff distance of 4.05 on Severe Glaucoma (SG) cases, compared to 0.905 and 5.27, respectively, with traditional FedAvg. Moreover, the integration of blockchain and homomorphic encryption ensured that data privacy was upheld without compromising model performance, while efficient computation and communication processes minimized latency and resource consumption. This study contributes a robust, privacy-preserving, secure, efficient, and verifiable federated learning framework that addresses the pressing need for secure and scalable data management in distributed machine learning environments.\n               ",
+                "openaccess": "0",
+                "openaccessArticle": false,
+                "openaccessType": null,
+                "openArchiveArticle": false,
+                "openaccessSponsorName": null,
+                "openaccessSponsorType": null,
+                "openaccessUserLicense": null,
+                "dcterms:subject": [
+                    {
+                        "@_fa": "true",
+                        "$": "Federated learning"
+                    },
+                    {
+                        "@_fa": "true",
+                        "$": "Blockchain"
+                    },
+                    {
+                        "@_fa": "true",
+                        "$": "Homomorphic encryption"
+                    },
+                    {
+                        "@_fa": "true",
+                        "$": "Consensus algorithm"
+                    },
+                    {
+                        "@_fa": "true",
+                        "$": "Fault tolerance"
+                    }
+                ],
+                "link": [
+                    {
+                        "@href": "https://api.elsevier.com/content/article/pii/S1568494624011797",
+                        "@rel": "self",
+                        "@_fa": "true"
+                    },
+                    {
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1568494624011797?v=s5",
+                        "@rel": "scidir",
+                        "@_fa": "true"
+                    }
+                ]
+            },
+            "originalText": {
+                "xocs:doc": {
+                    "xocs:meta": {
+                        "xocs:open-access": {
+                            "xocs:oa-article-status": {
+                                "@is-open-access": "0",
+                                "@is-open-archive": "0"
+                            }
+                        },
+                        "xocs:available-online-date": {
+                            "@yyyymmdd": "20241030",
+                            "$": "2024-10-30"
+                        }
+                    }
+                }
+            }
+        }
+    }
+]
